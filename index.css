@@ -14,6 +14,16 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  display: block;
+  font-size: 4em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
 .center {
   display: table;
   width: 100%;
@@ -34,25 +44,25 @@ body {
 #social li {
   display: inline-block;
   list-style-type: none;
-   margin-left:auto;
-    margin-right:auto;
-    width: 100px;
+  margin-left:auto;
+  margin-right:auto;
+  width: 140px;
 
 }
 
 /** Facebook **/
 
 .facebook {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
 }
 
 .facebook .border {
   background: transparent;
   outline: none;
   color:rgba(255,255,255, 0.3);
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -64,26 +74,26 @@ body {
   background: #3b5998;
   border-color: #436aaf;
   color: rgba(255,255,255, 0.9);
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .fa.fa-facebook {
-  font-size: 25px;
+  font-size: 50px;
 }
 
 /** Twitter **/
 
 .twitter {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
 }
 
 .twitter .border {
   background: transparent;
   outline: none;
   color:rgba(255,255,255, 0.3);
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -95,26 +105,26 @@ body {
   background: #00aced;
   border-color: #72c6e6;
   color: rgba(255,255,255, 0.9);
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .fa.fa-twitter {
-  font-size: 25px;
+  font-size: 55px;
 }
 
 /** Instagram **/
 
 .instagram {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
 }
 
 .instagram .border {
   background: transparent;
   outline: none;
   color:rgba(255,255,255, 0.3);
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -126,9 +136,9 @@ body {
   background: #517fa4;
   border-color: #7495af;
   color: rgba(255,255,255, 0.9);
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .fa.fa-instagram {
-  font-size: 25px;
+  font-size: 50px;
 }
