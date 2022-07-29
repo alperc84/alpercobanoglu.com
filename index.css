@@ -15,7 +15,7 @@ body {
 }
 h1 {
   display: block;
-  font-size: 3.6em;
+  font-size: 5em;
   margin-top: 0.67em;
   margin-bottom: 0.67em;
   margin-left: 0;
@@ -139,5 +139,36 @@ h1 {
 }
 
 .fa.fa-instagram {
+  font-size: 50px;
+}
+
+/** Github **/
+
+.github {
+  width: 100px;
+  height: 100px;
+}
+
+.github .border {
+  background: transparent;
+  outline: none;
+  color:rgba(255,255,255, 0.3);
+  width: 100px;
+  height: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  border: 2px solid rgba(255,255,255, 0.3);
+  transition: all .2s ease-in-out;
+}
+
+.github .border:hover {
+  background: #517fa4;
+  border-color: #7495af;
+  color: rgba(255,255,255, 0.9);
+  transform: scale(1.1);
+}
+
+.fa.fa-github {
   font-size: 50px;
 }
