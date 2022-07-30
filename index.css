@@ -15,7 +15,7 @@ body {
 }
 h1 {
   display: block;
-  font-size: 5em;
+  font-size: 4.2em;
   margin-top: 0.67em;
   margin-bottom: 0.67em;
   margin-left: 0;
@@ -45,23 +45,23 @@ h1 {
   list-style-type: none;
   margin-left:auto;
   margin-right:auto;
-  width: 140px;
+  width: 120px;
 
 }
 
 /** Facebook **/
 
 .facebook {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
 }
 
 .facebook .border {
   background: transparent;
   outline: none;
   color:rgba(255,255,255, 0.3);
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -77,22 +77,22 @@ h1 {
 }
 
 .fa.fa-facebook {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 /** Twitter **/
 
 .twitter {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
 }
 
 .twitter .border {
   background: transparent;
   outline: none;
   color:rgba(255,255,255, 0.3);
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -108,22 +108,22 @@ h1 {
 }
 
 .fa.fa-twitter {
-  font-size: 55px;
+  font-size: 40px;
 }
 
 /** Instagram **/
 
 .instagram {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
 }
 
 .instagram .border {
   background: transparent;
   outline: none;
   color:rgba(255,255,255, 0.3);
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -139,22 +139,22 @@ h1 {
 }
 
 .fa.fa-instagram {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 /** Github **/
 
 .github {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
 }
 
 .github .border {
   background: transparent;
   outline: none;
   color:rgba(255,255,255, 0.3);
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -170,5 +170,5 @@ h1 {
 }
 
 .fa.fa-github {
-  font-size: 50px;
+  font-size: 40px;
 }
